@@ -1,9 +1,9 @@
 # Caetano Dallora 
 
 ## Contact Info 
-:house: Krakow, Poland  
-:phone: +48 507 547 991  
-:email:  cdallora@hotmail.com  
+Where: Krakow, Poland  
+Phone: +48 507 547 991  
+E-mail:  cdallora@hotmail.com  
 
 ## Summary
 I am a Brazilian Lawyer with several years of experience that, due to some life changes, want to start a new career in IT development.
